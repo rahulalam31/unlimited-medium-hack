@@ -37,7 +37,8 @@
                             <p class="lead text-white-50 mb-4">Just copy and paste your medium blog url below and click open link</p>
                             <div class="d-grid gap-3 d-sm-flex justify-content-sm-center">
                                 <input class="px-4" type="text" id="link" placeholder="paste you link">Learn More</input>
-                                <button class="btn btn-primary btn-lg px-4 me-sm-3" onclick="window.open(fullpath)" id="button">Open Link</button>
+                                <button class="btn btn-primary btn-lg px-4 me-sm-3" 
+                                onClick="javascript: window.open('http://webcache.googleusercontent.com/search?q=cache:' + document.getElementById('link').value);" id="button">Open Link</button>
                             </div>
                         </div>
                     </div>
@@ -68,10 +69,10 @@
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
-        <script>
+        <!-- <script>
             var base = "http://webcache.googleusercontent.com/search?q=cache:"
             var link = document.getElementById("link").value;
             var fullpath = base + link ;
-        </script>
+        </script> -->
     </body>
 </html>
