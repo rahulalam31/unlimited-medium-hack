@@ -1,6 +1,11 @@
 Unlimited Access to Medium Articles A Simple Method for Seamless Reading
 ========================================================================
 
+# Video Proof
+
+[Screencast from 2023-10-26 21-49-00.webm](https://github.com/rahulalam31/unlimited-medium-hack/assets/40790503/5e3447b0-a77b-4257-ba6d-94da6a34f974)
+
+
 Unlimited Access to Medium Articles: A Simple Method for Seamless Reading
 -------------------------------------------------------------------------
 
